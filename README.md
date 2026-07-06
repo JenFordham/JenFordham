@@ -1,10 +1,12 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:F8BBD0&height=220&section=header&text=Jen%20Fordham&fontSize=42&fontColor=ffffff&desc=Healthcare%20Analytics%20%7C%20Python%20%E2%80%A2%20SQL%20%E2%80%A2%20Power%20BI&descAlignY=65&animation=fadeIn)
+
 # Hi, I'm Jen! 
 
 Welcome to my little corner of GitHub! 
 
 I'm a **Healthcare Data Integrity Analyst** passionate about using data to improve patient safety, healthcare quality, and operational efficiency.
 
-## 💕 Current Tech Stack
+## Current Tech Stack
 
 🐍 Python  
 🗄️ SQL  
@@ -13,7 +15,7 @@ I'm a **Healthcare Data Integrity Analyst** passionate about using data to impro
 
 ---
 
-## 🌸 Featured Project
+## Featured Project
 
 ### 🏥 Healthcare Duplicate MRN Continuous Improvement Analysis
 
@@ -24,7 +26,7 @@ https://github.com/JenFordham/healthcare-duplicate-mrn-analysis
 
 ---
 
-## 🌱 Currently Working On
+## Currently Working On
 
 🏡 **Healthcare Access in Kitsap County**
 
@@ -32,7 +34,7 @@ A healthcare analytics project exploring access to care across Kitsap County usi
 
 ---
 
-## 💖 A little about me
+## A little about me
 
 I love combining healthcare experience with analytics to solve real-world problems.
 
@@ -46,4 +48,4 @@ I'm especially interested in:
 
 ---
 
-Thanks for stopping by!
+Thanks for stopping by! 🌸
