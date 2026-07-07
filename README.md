@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:F8BBD0&height=220&section=header&text=Jen%20Fordham&fontSize=42&fontColor=ffffff&desc=Healthcare%20Analytics%20%7C%20Python%20%E2%80%A2%20SQL%20%E2%80%A2%20Power%20BI&descAlignY=65&animation=fadeIn)
-
 # Hi, I'm Jen! 
 
 Welcome to my little corner of GitHub! 
