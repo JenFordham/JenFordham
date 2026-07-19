@@ -49,20 +49,4 @@ https://github.com/JenFordham/healthcare_access_kitsap
 - Statistical analysis
 
 ---
-
-## About Me
-
-I enjoy combining healthcare domain expertise with analytics to solve real-world problems.
-
-I'm especially interested in:
-
-- 🩺 Healthcare Analytics
-- 📊 Data Visualization
-- 🗺️ Geospatial Analytics
-- 🐍 Python
-- 🗄️ SQL
-- 📈 Continuous Quality Improvement
-
----
-
 Thanks for stopping by! 🌸
