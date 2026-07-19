@@ -1,45 +1,64 @@
-# Hi, I'm Jen! 
+# Hi, I'm Jen! 👋
 
-Welcome to my little corner of GitHub! 
+Welcome to my little corner of GitHub!
 
-I'm a **Healthcare Data Integrity Analyst** passionate about using data to improve patient safety, healthcare quality, and operational efficiency.
+I'm a **Healthcare Data Integrity Analyst** with 10+ years of experience in healthcare information management, currently expanding into healthcare analytics through Python, SQL, Power BI, and data visualization.
+
+I'm passionate about using data to improve patient safety, healthcare quality, and healthcare decision-making.
+
+---
 
 ## Current Tech Stack
 
 🐍 Python  
-🗄️ SQL  
+🗄️ SQL & SQLite  
 📊 Power BI  
-📈 Data Visualization
+🗺️ GeoPandas  
+📈 Data Visualization  
+💻 Git & GitHub
 
 ---
 
-## Featured Project
+## Featured Projects
 
-### 🏥 Healthcare Duplicate MRN Continuous Improvement Analysis
+### Healthcare Duplicate MRN Continuous Improvement Analysis
 
-An end-to-end healthcare analytics project using **Python, SQL, and Power BI** to simulate duplicate medical record investigations, identify trends, build interactive dashboards, and recommend data-driven process improvements.
+An end-to-end healthcare analytics project using Python, SQL, SQLite, and Power BI to simulate duplicate medical record investigations, identify trends, build interactive dashboards, and recommend data-driven process improvements.
 
-🔗 **View the project:**  
+ **View the project:**  
 https://github.com/JenFordham/healthcare-duplicate-mrn-analysis
 
 ---
 
-## Currently Working On
+### Kitsap County Healthcare Access Analysis
 
-🏡 **Healthcare Access in Kitsap County**
+An end-to-end healthcare analytics project combining public demographic, healthcare facility, and geospatial data to identify communities where healthcare resources may not align with population need.
 
-A healthcare analytics project exploring access to care across Kitsap County using demographic and geographic data to better understand healthcare availability and potential disparities.
+Built using **Python, GeoPandas, SQLite, SQL, and Power BI**.
+
+ **View the project:**  
+https://github.com/JenFordham/healthcare_access_kitsap
 
 ---
 
-## A little about me
+## Currently Learning
 
-I love combining healthcare experience with analytics to solve real-world problems.
+- Advanced Python for data analytics
+- Power BI & DAX
+- Healthcare data storytelling
+- Statistical analysis
+
+---
+
+## About Me
+
+I enjoy combining healthcare domain expertise with analytics to solve real-world problems.
 
 I'm especially interested in:
 
 - 🩺 Healthcare Analytics
 - 📊 Data Visualization
+- 🗺️ Geospatial Analytics
 - 🐍 Python
 - 🗄️ SQL
 - 📈 Continuous Quality Improvement
