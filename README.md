@@ -2,9 +2,7 @@
 
 Welcome to my little corner of GitHub!
 
-I'm a **Healthcare Data Integrity Analyst** with 10+ years of experience in healthcare information management, currently expanding into healthcare analytics through Python, SQL, Power BI, and data visualization.
-
-I'm passionate about using data to improve patient safety, healthcare quality, and healthcare decision-making.
+I'm an **RHIA-certified Healthcare Data Integrity Analyst** with 10+ years of experience improving healthcare data quality, patient identity integrity, and Epic EHR workflows. I'm passionate about transforming healthcare data into meaningful insights that support patient safety, operational improvement, and data-driven decision making.
 
 ---
 
@@ -13,8 +11,9 @@ I'm passionate about using data to improve patient safety, healthcare quality, a
 🐍 Python  
 🗄️ SQL & SQLite  
 📊 Power BI  
+📈 Microsoft Excel & PivotTables  
 🗺️ GeoPandas  
-📈 Data Visualization  
+📉 Data Visualization  
 💻 Git & GitHub
 
 ---
@@ -23,30 +22,44 @@ I'm passionate about using data to improve patient safety, healthcare quality, a
 
 ### Healthcare Duplicate MRN Continuous Improvement Analysis
 
-An end-to-end healthcare analytics project using Python, SQL, SQLite, and Power BI to simulate duplicate medical record investigations, identify trends, build interactive dashboards, and recommend data-driven process improvements.
+Designed an end-to-end analytics solution that simulates duplicate medical record investigations, identifies operational trends, and presents executive dashboards to support patient identity improvement initiatives.
 
- **View the project:**  
-https://github.com/JenFordham/healthcare-duplicate-mrn-analysis
+**Tools:** Python • SQL • SQLite • Power BI
+
+**Repository:**  
+[Healthcare Duplicate MRN Analysis](https://github.com/JenFordham/healthcare-duplicate-mrn-analysis)
 
 ---
 
 ### Kitsap County Healthcare Access Analysis
 
-An end-to-end healthcare analytics project combining public demographic, healthcare facility, and geospatial data to identify communities where healthcare resources may not align with population need.
+Analyzed healthcare resource distribution across Kitsap County using demographic, provider, and geospatial data to identify communities where healthcare access may not align with population need.
 
-Built using **Python, GeoPandas, SQLite, SQL, and Power BI**.
+**Tools:** Python • GeoPandas • SQL • SQLite • Power BI
 
- **View the project:**  
-https://github.com/JenFordham/healthcare_access_kitsap
+**Repository:**  
+[Healthcare Access Analysis](https://github.com/JenFordham/healthcare_access_kitsap)
+
+---
+
+### Washington Hospital Quality Explorer
+
+Developed an executive Excel dashboard using CMS Hospital Compare data to benchmark hospital quality performance across Washington State through PivotTables, KPI development, and executive dashboard design.
+
+**Tools:** Microsoft Excel • PivotTables • Dashboard Design • Healthcare Analytics
+
+**Repository:**  
+[Washington Hospital Quality Explorer](https://github.com/JenFordham/washington_hospital_quality_explorer)
 
 ---
 
 ## Currently Learning
 
-- Advanced Python for data analytics
-- Power BI & DAX
-- Healthcare data storytelling
+- Advanced Python for analytics
 - Statistical analysis
+- Healthcare quality analytics
+- Power BI & DAX
 
 ---
+
 Thanks for stopping by! 🌸
